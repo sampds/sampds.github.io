@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](https://github.com/sampds/network-television-movie-trend-analysis)
-<img src="images/nielsen_thumbnail?raw=true"/>
+<img src="images/nielsen_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](http://example.com/)
