@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](https://github.com/sampds/network-television-movie-trend-analysis)
-<img src="images/nielsen_thumbnail.jpg?raw=true"/>
+[<img src="images/nielsen_thumbnail.jpg?raw=true">](/pdf/Deery-Schmitt_Samuel_Nielsen_Analysis_Poster.pdf)
 
 ---
 [Project 2 Title](http://example.com/)
@@ -14,6 +14,7 @@
 ---
 [DMAIC Process Improvement for Hombuilding Firm](/pdf/Deery-Schmitt_Samuel_DMAIC_Process_Improvement_Project.pdf)
 <img src="images/DMAIC_thumbnail.jpg?raw=true"/>
+
 
 ---
 
