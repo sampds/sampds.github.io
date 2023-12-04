@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://github.com/sampds/network-television-movie-trend-analysis)
+[Nielsen Movie Viewership Analytics](https://github.com/sampds/network-television-movie-trend-analysis)
 [<img src="images/nielsen_thumbnail.jpg?raw=true">](/pdf/Deery-Schmitt_Samuel_Nielsen_Analysis_Poster.pdf)
 
 ---
