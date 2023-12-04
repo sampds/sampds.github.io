@@ -8,12 +8,12 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[DMAIC Process Improvement for Hombuilding Firm](/pdf/Deery-Schmitt_Samuel_DMAIC_Process_Improvement_Project.pdf)
+<img src="images/DMAIC_thumbnail.jpg?raw=true"/>
 
 ---
 
