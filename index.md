@@ -35,7 +35,7 @@ The dataset is enormous, with hundreds of thousands of records and dozens of var
 
 [DMAIC Process Improvement for Hombuilding Firm](/pdf/Deery-Schmitt_Samuel_DMAIC_Process_Improvement_Project.pdf)
 
-[<img src="images/DMAIC_thumbnail.jpg?raw=true">](/images/DMAIC_thumbnail.jpg)
+[<img src="images/DMAIC_thumbnail.jpg?raw=true">](/pdf/Deery-Schmitt_Samuel_DMAIC_Process_Improvement_Project.pdf)
 
 **Objective** 
 To identify and reduce supply chain inefficiencies in a real estate & home building firm.
