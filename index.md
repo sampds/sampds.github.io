@@ -1,6 +1,5 @@
 # Portfolio
 
----
 ## Business Consulting Projects
 **Work completed to answer business questions and build technical solutions for companies**
 
