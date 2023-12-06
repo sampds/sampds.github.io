@@ -3,7 +3,7 @@
 ## Business Consulting Projects
 **Work completed to answer business questions and build technical solutions for companies**
 
----
+***
 ### Database Development and Descriptive Analytics
 
 [Centralizing Data and Drawing Insight for A1 Educational Consulting](https://github.com/sampds/consulting-mssql-server-database-development-descriptive-analytics)
