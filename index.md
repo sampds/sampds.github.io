@@ -1,6 +1,6 @@
 # Portfolio
 
-___
+===
 
 ## Business Consulting Projects
 **Work completed to answer business questions and build technical solutions for companies**
@@ -10,6 +10,7 @@ ___
 ### Database Development and Descriptive Analytics
 
 [Centralizing Data and Drawing Insight for A1 Educational Consulting](https://github.com/sampds/consulting-mssql-server-database-development-descriptive-analytics)
+
 [<img src="images/a1_thumbnail.png?raw=true">](/pdf/Deery-Schmitt_Samuel_Developing_a_Database_to_Support_A1_College_Prep_Sales_Marketing_and_Administration.pdf)
 
 **Objective**
@@ -24,6 +25,7 @@ ___
 ### Data Visualization and Descriptive Analytics
 
 [Nielsen Movie Viewership Analytics for RSG Media](https://github.com/sampds/network-television-movie-trend-analysis)
+
 [<img src="images/nielsen_thumbnail.jpg?raw=true">](/pdf/Deery-Schmitt_Samuel_Nielsen_Analysis_Poster.pdf)
 
 **Objective** 
@@ -37,7 +39,8 @@ ___
 ### Data Engineering and Modeling
 
 [DMAIC Process Improvement for Hombuilding Firm](/pdf/Deery-Schmitt_Samuel_DMAIC_Process_Improvement_Project.pdf)
-[<img src="images/DMAIC_thumbnail.jpg?raw=true">]("images/DMAIC_thumbnail.jpg?raw=true")
+
+[<img src="images/DMAIC_thumbnail.jpg?raw=true">](/images/DMAIC_thumbnail.jpg)
 
 **Objective** 
 To identify and reduce supply chain inefficiencies in a real estate & home building firm.
@@ -52,6 +55,7 @@ ___
 ### Fuzzy Matching Records and Modeling
 
 [College Football Coaches Salary Recommendations](https://github.com/sampds/fuzzy-matching-college-football)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 **Objective** 
