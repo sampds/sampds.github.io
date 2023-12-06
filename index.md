@@ -1,12 +1,10 @@
 # Portfolio
 
-===
-
+---
 ## Business Consulting Projects
 **Work completed to answer business questions and build technical solutions for companies**
 
-___
-
+---
 ### Database Development and Descriptive Analytics
 
 [Centralizing Data and Drawing Insight for A1 Educational Consulting](https://github.com/sampds/consulting-mssql-server-database-development-descriptive-analytics)
@@ -20,8 +18,7 @@ Use the database to analyze performance, create visualizations and reports to su
 **Challenge**
 The existing system was fragmented, making it challenging to access comprehensive information for marketing strategies or student support.
 
-___
-
+---
 ### Data Visualization and Descriptive Analytics
 
 [Nielsen Movie Viewership Analytics for RSG Media](https://github.com/sampds/network-television-movie-trend-analysis)
@@ -34,8 +31,7 @@ To analyze and report on Nielsen data, focusing on viewer demographics and behav
 **Challenge**
 The dataset is enormous, with hundreds of thousands of records and dozens of variables, and the domain was unfamiliar.
 
-___
-
+---
 ### Data Engineering and Modeling
 
 [DMAIC Process Improvement for Hombuilding Firm](/pdf/Deery-Schmitt_Samuel_DMAIC_Process_Improvement_Project.pdf)
@@ -48,8 +44,7 @@ To identify and reduce supply chain inefficiencies in a real estate & home build
 **Challenge**
 Matching 7 quarters of vendor and client records.
 
-___
-
+---
 ## Academic Projects
 
 ### Fuzzy Matching Records and Modeling
@@ -63,5 +58,4 @@ To execute a comprehensive data analysis process, starting from data collection 
 
 **Challenge**
 Matching records from 6 different sources.
-
-___
+---
