@@ -1,20 +1,20 @@
 # Portfolio
 
 ## Business Consulting Projects
-**Work completed to answer business questions and build technical solutions for companies**
+Work completed to answer business questions and build technical solutions for companies
 
-***
+
 ### Database Development and Descriptive Analytics
 
 [Centralizing Data and Drawing Insight for A1 Educational Consulting](https://github.com/sampds/consulting-mssql-server-database-development-descriptive-analytics)
 
 [<img src="images/a1_thumbnail.png?raw=true">](/pdf/Deery-Schmitt_Samuel_Developing_a_Database_to_Support_A1_College_Prep_Sales_Marketing_and_Administration.pdf)
 
-**Objective**
+Objective
 To create a centralized database for managing information about students, parents, and their interactions with the organization.
 Use the database to analyze performance, create visualizations and reports to support sales and marketing, and ease administrative burden.
 
-**Challenge**
+Challenge
 The existing system was fragmented, making it challenging to access comprehensive information for marketing strategies or student support.
 
 ---
@@ -24,10 +24,10 @@ The existing system was fragmented, making it challenging to access comprehensiv
 
 [<img src="images/nielsen_thumbnail.jpg?raw=true">](/pdf/Deery-Schmitt_Samuel_Nielsen_Analysis_Poster.pdf)
 
-**Objective** 
+Objective
 To analyze and report on Nielsen data, focusing on viewer demographics and behaviors.
 
-**Challenge**
+Challenge
 The dataset is enormous, with hundreds of thousands of records and dozens of variables, and the domain was unfamiliar.
 
 ---
@@ -37,10 +37,10 @@ The dataset is enormous, with hundreds of thousands of records and dozens of var
 
 [<img src="images/DMAIC_thumbnail.jpg?raw=true">](/images/DMAIC_thumbnail.jpg)
 
-**Objective** 
+Objective
 To identify and reduce supply chain inefficiencies in a real estate & home building firm.
 
-**Challenge**
+Challenge
 Matching 7 quarters of vendor and client records.
 
 ---
@@ -52,9 +52,9 @@ Matching 7 quarters of vendor and client records.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-**Objective** 
+Objective
 To execute a comprehensive data analysis process, starting from data collection to predicting salaries.
 
-**Challenge**
+Challenge
 Matching records from 6 different sources.
 ---
