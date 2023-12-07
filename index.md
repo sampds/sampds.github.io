@@ -73,8 +73,8 @@ Matching records from 6 different sources, and choosing best variables for model
 
 **Objective** 
 
-To execute a comprehensive data analysis process, starting from data collection to predicting salaries.
+To understand factors affecting cryptocurrency prices, explore correlations between different cryptocurrencies, and develop predictive models for price movements.
 
 **Challenge**
 
-Matching records from 6 different sources, and choosing best variables for modeling.
+Transforming data for use in support vector machines.
