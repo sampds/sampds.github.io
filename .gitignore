@@ -3,5 +3,5 @@ project_environment
 example_LICENSE
 example_README.md
 sample_page.md
-example_index
-_sass/dynamic_jekyll-theme-minimal
+example_index.md
+_sass/dynamic_jekyll-theme-minimal.scss
