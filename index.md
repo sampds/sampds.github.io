@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Business Consulting Projects
-**Work completed to answer business questions and build technical solutions for companies**
+**Coursework completed to answer business questions and build technical solutions for companies**
 
 ---
 ### Database Development and Descriptive Analytics
@@ -24,10 +24,12 @@ The existing system was fragmented, making it challenging to access comprehensiv
 
 [<img src="images/nielsen_thumbnail.jpg?raw=true">](/pdf/Deery-Schmitt_Samuel_Nielsen_Report.pdf)
 
-**Objective** 
+**Objective**
+ 
 To analyze and report on Nielsen data, focusing on viewer demographics and behaviors.
 
 **Challenge**
+
 The dataset is enormous, with hundreds of thousands of records and dozens of variables, and the domain was unfamiliar.
 
 ---
@@ -38,13 +40,16 @@ The dataset is enormous, with hundreds of thousands of records and dozens of var
 [<img src="images/DMAIC_thumbnail.jpg?raw=true">](/pdf/Deery-Schmitt_Samuel_DMAIC_Process_Improvement_Project.pdf)
 
 **Objective** 
+
 To identify and reduce supply chain inefficiencies in a real estate & home building firm.
 
 **Challenge**
+
 Matching 7 quarters of vendor and client records.
 
 ---
 ## Academic Projects
+**Coursework focused on applying classroom techniques and improving skills**
 
 ### Fuzzy Matching Records and Modeling
 
@@ -53,7 +58,23 @@ Matching 7 quarters of vendor and client records.
 [<img src="images/college_football_thumbnail.png?raw=true">](/pdf/Deery-Schmitt_Samuel_College_Football_Coach_Salary_Recommendations.pdf)
 
 **Objective** 
+
 To execute a comprehensive data analysis process, starting from data collection to predicting salaries.
 
 **Challenge**
+
+Matching records from 6 different sources, and choosing best variables for modeling.
+
+### Data Exploration and Modeling
+
+[Understanding Cryptocurrency Volatility](https://github.com/sampds/understanding-cryptocurrency-volatility)
+
+[<img src="images/cryptocurrency_thumbnail.png?raw=true">](/pdf/Deery-Schmitt_Samuel_Understanding_Cryptocurrency_Volatility.pdf)
+
+**Objective** 
+
+To execute a comprehensive data analysis process, starting from data collection to predicting salaries.
+
+**Challenge**
+
 Matching records from 6 different sources, and choosing best variables for modeling.
