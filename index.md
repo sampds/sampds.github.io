@@ -57,4 +57,3 @@ To execute a comprehensive data analysis process, starting from data collection 
 
 **Challenge**
 Matching records from 6 different sources, and choosing best variables for modeling.
----
