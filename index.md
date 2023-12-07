@@ -22,7 +22,7 @@ The existing system was fragmented, making it challenging to access comprehensiv
 
 [Nielsen Movie Viewership Analytics for RSG Media](https://github.com/sampds/network-television-movie-trend-analysis)
 
-[<img src="images/nielsen_thumbnail.jpg?raw=true">](/pdf/Deery-Schmitt_Samuel_Nielsen_Analysis_Poster.pdf)
+[<img src="images/nielsen_thumbnail.jpg?raw=true">](/pdf/Deery-Schmitt_Samuel_Nielsen_Report.pdf)
 
 **Objective** 
 To analyze and report on Nielsen data, focusing on viewer demographics and behaviors.
@@ -50,11 +50,11 @@ Matching 7 quarters of vendor and client records.
 
 [College Football Coaches Salary Recommendations](https://github.com/sampds/fuzzy-matching-college-football)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[<img src="images/college_football_thumbnail.png?raw=true">](/pdf/Deery-Schmitt_Samuel_College_Football_Coach_Salary_Recommendations.pdf)
 
 **Objective** 
 To execute a comprehensive data analysis process, starting from data collection to predicting salaries.
 
 **Challenge**
-Matching records from 6 different sources.
+Matching records from 6 different sources, and choosing best variables for modeling.
 ---
