@@ -4,4 +4,5 @@ example_LICENSE
 example_README.md
 sample_page.md
 example_index.md
+examples/projects
 _sass/dynamic_jekyll-theme-minimal.scss
