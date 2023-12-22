@@ -59,6 +59,18 @@ To execute a comprehensive data analysis process, starting from data collection 
 **Challenge**
 Matching records from 6 different sources, and choosing best variables for modeling.
 
+### Data Warehouse and Business Intelligence
+
+[End-to-End Data Warehouse](https://github.com/sampds/end-to-end-data-warehouse)
+
+[<img src="images/data-warehouse-dashboard-thumbnail.gif?raw=true">](/pdf/Deery-Schmitt_Samuel_End_to_End_Data_Warehouse.pdf)
+
+**Objective**
+Comprehensive group effort to develop a data warehouse by merging two fictional companies' legacy systems to create a single source to draw insight from.
+
+**Challenge**
+Data validation and transformation; designing ETL pipeline.
+
 ### Data Exploration and Modeling
 
 [Understanding Cryptocurrency Volatility](https://github.com/sampds/understanding-cryptocurrency-volatility)
@@ -69,4 +81,4 @@ Matching records from 6 different sources, and choosing best variables for model
 To understand factors affecting cryptocurrency prices, explore correlations between different cryptocurrencies, and develop predictive models for price movements.
 
 **Challenge**
-Transforming data for use in support vector machines.
+Feature engineering variables for use in support vector machines.
