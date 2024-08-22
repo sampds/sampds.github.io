@@ -2,17 +2,7 @@ title: <p align="center">Samuel <br>Deery-Schmitt</p>
 logo: "/images/photo.png?raw=true"
 description:
   <p align="center">
-# <a href="pdf/Deery-Schmitt_Samuel_Resume.pdf">Resume</a> |
-# <a href="https://www.linkedin.com/in/samds/">LinkedIn</a> |
   <a href="https://github.com/sampds">GitHub</a>
   </p>
-  
-  <p align="justify">
-#  Data Scientist based in Seattle, WA
-  <br><br>
-# Recently finished a contract doing data modeling for a civil engineering firm that contracts with the United States Department of Defense.
-  <br><br>
-  </p>
-  
 theme: jekyll-theme-minimal
 google_analytics: G-ZJR2M3XX12
